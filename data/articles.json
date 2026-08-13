@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rates-explained",
+    "title": "Interest Rates Explained Without the Jargon",
+    "category": "Finance Foundations",
+    "summary": "A practical mental model for understanding policy rates, bond yields, borrowing costs and asset prices.",
+    "readTime": "6 min",
+    "date": "2026-08-04",
+    "tags": [
+      "Rates",
+      "Beginner"
+    ],
+    "body": {
+      "intro": "Interest rates are prices: they describe the cost of using money over time. Once that idea is clear, the connections between central-bank decisions, loans, bonds and asset valuations become easier to follow.",
+      "heading1": "Start with the policy rate",
+      "section1": "A central bank sets or guides a short-term policy rate. That rate influences overnight funding, bank deposit rates and the cost of new credit, but it does not mechanically set every borrowing rate in the economy. Credit risk, loan duration, competition and expectations all contribute to the final price paid by a household or business.",
+      "quote": "The policy rate is an anchor for financial conditions, not a remote control for every market price.",
+      "heading2": "Connect rates to value",
+      "section2": "A bond's price generally moves in the opposite direction to its yield because its fixed future payments become more or less attractive as market rates change. The same discounting logic can affect other assets: when the required return rises, distant cash flows are worth less today, all else equal.",
+      "close": "When interpreting a rate move, separate the current decision from expectations about inflation, growth and future policy. Markets price the path ahead, not only today's announcement."
+    },
+    "status": "published"
+  },
+  {
+    "id": "risk-return",
+    "title": "Risk and Return: The Lesson Most Charts Skip",
+    "category": "Risk Management",
+    "summary": "Why volatility is only one part of risk, and how time horizon changes the answer.",
+    "readTime": "7 min",
+    "date": "2026-07-24",
+    "tags": [
+      "Risk",
+      "Portfolio"
+    ],
+    "body": {
+      "intro": "Risk-and-return charts are useful, but they compress several different problems into one number. A sound decision starts by asking what kind of loss matters, when the money is needed and which outcomes would be difficult to recover from.",
+      "heading1": "Volatility is not the whole story",
+      "section1": "Price volatility measures how widely returns have varied. It does not directly capture permanent loss, inflation, illiquidity, concentration or the chance that an investor must sell at a bad time. Two portfolios with similar volatility can expose their owners to very different practical risks.",
+      "quote": "Risk becomes meaningful only when it is connected to a goal, a time horizon and a consequence.",
+      "heading2": "Match the measure to the decision",
+      "section2": "Short horizons make drawdowns and liquidity especially important. Long horizons can absorb more short-term movement, but they introduce uncertainty about inflation, structural change and future needs. Useful analysis therefore combines several measures with scenarios instead of treating one historical statistic as a complete answer.",
+      "close": "Define the unacceptable outcome first, then choose evidence and safeguards that address it. Return targets should follow that risk assessment, not replace it."
+    },
+    "status": "published"
+  },
+  {
+    "id": "market-orders",
+    "title": "What Happens After You Press Buy?",
+    "category": "Market Mechanics",
+    "summary": "Follow an order from your screen through matching, execution, settlement and reporting.",
+    "readTime": "5 min",
+    "date": "2026-07-12",
+    "tags": [
+      "Markets",
+      "Explainer"
+    ],
+    "body": {
+      "intro": "A buy button makes trading feel instantaneous, but the instruction passes through several systems before ownership and cash are finally recorded. Understanding that path helps explain spreads, partial fills and settlement delays.",
+      "heading1": "From order to execution",
+      "section1": "Your broker checks the instruction and routes it to a venue or market maker. A market order seeks the best available price, while a limit order sets the worst price you will accept. The order may fill against one or several sellers, so the final average price can differ from the first quote on the screen.",
+      "quote": "An order is an instruction with conditions; an execution is the completed trade.",
+      "heading2": "From execution to settlement",
+      "section2": "After execution, clearing systems calculate what each participant owes. During settlement, securities and cash are exchanged and official records are updated. Brokers usually reflect the trade immediately in the account interface even though the back-office process continues.",
+      "close": "Before trading, understand the order type, available liquidity and settlement rules. Those details matter most when prices move quickly or the position is large relative to normal volume."
+    },
+    "status": "published"
+  },
+  {
+    "id": "loss-aversion",
+    "title": "Loss Aversion in Real Portfolios",
+    "category": "Investor Psychology",
+    "summary": "A case-based lesson on recognizing emotional decisions before they become expensive habits.",
+    "readTime": "8 min",
+    "date": "2026-06-29",
+    "tags": [
+      "Psychology",
+      "Cases"
+    ],
+    "body": {
+      "intro": "Loss aversion describes the tendency for a loss to feel more powerful than an equal-sized gain. In a portfolio, that asymmetry can influence what an investor notices, how long a weak position is held and when a sensible plan is abandoned.",
+      "heading1": "Recognize the pattern",
+      "section1": "An investor may refuse to sell a deteriorating asset because realizing the loss makes it feel final. The same investor may sell a successful position too early to protect the satisfaction of a gain. Both choices can be driven by the purchase price even when current evidence points elsewhere.",
+      "quote": "The market does not know the price you paid, but that number can still dominate your decision.",
+      "heading2": "Build a decision process",
+      "section2": "Write down the reason for owning an asset, the evidence that would challenge that reason and the portfolio limits that apply. Review those statements on a schedule rather than only during sharp market moves. A consistent process does not remove emotion, but it reduces the number of decisions made entirely under its influence.",
+      "close": "Judge each position by its role and current evidence, not by the emotional appeal of getting back to break-even."
+    },
+    "status": "published"
+  }
+]

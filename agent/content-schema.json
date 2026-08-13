@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Agent Article",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "category",
+    "summary",
+    "date",
+    "tags",
+    "body",
+    "status",
+    "readTime"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 8,
+      "maxLength": 120
+    },
+    "category": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 40,
+      "maxLength": 240
+    },
+    "readTime": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string",
+      "format": "date"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "maxItems": 6
+    },
+    "body": {
+      "type": "object",
+      "required": [
+        "intro",
+        "heading1",
+        "section1",
+        "quote",
+        "heading2",
+        "section2",
+        "close"
+      ],
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "url",
+          "accessed"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "accessed": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      }
+    },
+    "status": {
+      "enum": [
+        "draft",
+        "review",
+        "published"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "provider": "github-pages",
+  "owner": "finance-academy",
+  "repository": "github.io",
+  "branch": "main",
+  "siteUrl": "https://finance-academy.github.io/github.io/",
+  "basePath": "",
+  "contentSource": "data/articles.json",
+  "reviewRequired": true
+}

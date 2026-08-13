@@ -1,0 +1,47 @@
+{
+  "cadence": "2 articles and 1 research note per month",
+  "lanes": [
+    {
+      "topic": "Finance Foundations",
+      "priority": 1,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Market Mechanics",
+      "priority": 2,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Risk Management",
+      "priority": 3,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    },
+    {
+      "topic": "Investor Psychology",
+      "priority": 4,
+      "formats": [
+        "explainer",
+        "case study",
+        "research note"
+      ]
+    }
+  ],
+  "workflow": [
+    "draft",
+    "source check",
+    "human review",
+    "publish"
+  ]
+}

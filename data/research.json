@@ -1,0 +1,23 @@
+[
+  {
+    "id": "kael-research-1",
+    "title": "Foundation Certificate",
+    "type": "8 lessons",
+    "summary": "Money, markets, compounding, inflation and the essential language of investing.",
+    "status": "Beginner"
+  },
+  {
+    "id": "kael-research-2",
+    "title": "Trading & Risk",
+    "type": "6 lessons",
+    "summary": "Orders, position sizing, drawdowns, scenarios and a repeatable decision journal.",
+    "status": "Intermediate"
+  },
+  {
+    "id": "kael-research-3",
+    "title": "Investor Psychology",
+    "type": "5 cases",
+    "summary": "Behavioral patterns taught through realistic household and portfolio decisions.",
+    "status": "All levels"
+  }
+]

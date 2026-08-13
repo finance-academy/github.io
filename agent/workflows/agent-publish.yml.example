@@ -1,0 +1,14 @@
+name: Agent content publish (example)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  validate-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate JSON content
+        run: node -e "JSON.parse(require('fs').readFileSync('data/articles.json','utf8'))"
+      - name: Human review gate
+        run: echo "Configure an environment approval before enabling automated publishing."
