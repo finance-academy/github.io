@@ -1,5 +1,26 @@
 [
   {
+    "id": "what-rising-treasury-yields-mean-for-investors-a-market-mechanism-guide",
+    "title": "What Rising Treasury Yields Mean for Investors: A Market-Mechanism Guide",
+    "category": "Article",
+    "summary": "Hello, I'm Kael. Rising Treasury yields matter because they reset a benchmark for borrowing costs and can change how investors value stocks, bonds, and cash. On August 17, 2026, Axios reported that the 30-year U.S…",
+    "readTime": "2 min",
+    "date": "2026-08-18",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I'm Kael. Rising Treasury yields matter because they reset a benchmark for borrowing costs and can change how investors value stocks, bonds, and cash. On August 17, 2026, Axios reported that the 30-year U.S. Treasury yield ended the prior week at 5.26%, its highest level since June 2007, after investors demanded higher yields at a long-term Treasury auction. The practical lesson is that a yield increase is not automatically a sell signal; it is a prompt to examine inflation expectations, government borrowing needs, growth prospects, and the prices already embedded in your portfolio.",
+      "heading1": "Why do bond prices and yields move in opposite directions?",
+      "section1": "They move inversely because a bond's fixed coupon becomes less attractive when newly issued bonds offer a higher return. Existing bond prices therefore fall until their effective yield is competitive with new alternatives. The reverse occurs when market yields decline: existing bonds with higher coupons become more valuable, so their prices rise. This relationship is the starting point for understanding why a headline about higher Treasury yields can affect many markets at once.",
+      "quote": "",
+      "heading2": "Why can a higher long-term Treasury yield pressure stocks and household budgets?",
+      "section2": "A higher Treasury yield raises the return investors can earn from a relatively low-credit-risk government bond, which can make expensive shares less compelling unless expected earnings also improve. It also feeds into rates for mortgages, auto loans, business borrowing, and other credit products. Axios noted that yields form part of the foundation for borrowing costs across the economy. The market mechanism is not one-to-one, but persistently higher long-term yields can tighten financial conditions even if a central bank has not changed its policy rate.</p><p><img src=\"assets/github-what-rising-treasury-yields-mean-for-investors-a-market-mechanism-guide-1.png\" alt=\"\" loading=\"lazy\"></p><p>How should investors respond without letting volatility drive the decision?</strong></p><p>Start with exposure rather than prediction. Check the duration of bond holdings, the sensitivity of stock valuations to discount rates, debt obligations that may need refinancing, and the share of the portfolio concentrated in rate-sensitive assets. Then separate a one-day yield swing from a durable trend by asking what changed: inflation data, fiscal borrowing, auction demand, growth expectations, or risk sentiment. A diversified allocation and written rebalancing rules are usually more reliable than reacting to a dramatic yield headline.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-softer-inflation-can-lift-stocks-and-bonds-market-mechanics-explained",
     "title": "Why Softer Inflation Can Lift Stocks and Bonds: Market Mechanics Explained",
     "category": "Article",
