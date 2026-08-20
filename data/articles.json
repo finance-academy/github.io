@@ -1,5 +1,26 @@
 [
   {
+    "id": "why-treasury-yields-rose-and-why-a-treasury-buyback-can-calm-markets-temporarily",
+    "title": "Why Treasury Yields Rose and Why a Treasury Buyback Can Calm Markets Temporarily",
+    "category": "Article",
+    "summary": "Hello, I'm Kael. The key lesson from the latest Treasury-market stress is that long-term borrowing costs are set by investors' required return, not simply by the Federal Reserve's overnight policy rate. When the U.S…",
+    "readTime": "3 min",
+    "date": "2026-08-20",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I'm Kael. The key lesson from the latest Treasury-market stress is that long-term borrowing costs are set by investors' required return, not simply by the Federal Reserve's overnight policy rate. When the U.S. Treasury announced on August 19 that it would more than double planned purchases of longer-term Treasurys, yields fell in the near term because the plan improved support for that market. It did not, however, remove the underlying forces that make investors demand higher yields: inflation risk, large government borrowing needs, and competing demand for capital from corporate borrowers.",
+      "heading1": "Why did long-term Treasury yields rise?",
+      "section1": "A Treasury yield is the return investors require for lending to the U.S. government. Bond prices and yields move in opposite directions: when investors sell bonds, prices fall and yields rise. AP reported that the 10-year Treasury yield topped 4.70% before easing to 4.65% on August 19, up from 3.97% before the Iran war began in late February. Investors were weighing higher oil-driven inflation concerns, large fiscal deficits, and the supply of debt coming from both government and major technology companies financing AI data centers.",
+      "quote": "",
+      "heading2": "How can a Treasury buyback lower yields?",
+      "section2": "A buyback means the Treasury purchases outstanding securities in the market. That can add liquidity and create an additional buyer for longer-dated bonds, which can lift bond prices and push yields lower. The effect was visible immediately: the 10-year yield fell from 4.71% late on August 18 to 4.64% the next morning, while the 30-year yield fell from 5.28% to 5.18%. This is a market-structure response, not a guarantee that rates will stay lower.</p><p><img src=\"assets/github-why-treasury-yields-rose-and-why-a-treasury-buyback-can-calm-markets-temporarily-1.png\" alt=\"\" loading=\"lazy\"></p><p><strong>Why can't a Federal Reserve rate cut solve long-term yields by itself?</strong></p><p>The Federal Reserve directly influences very short-term overnight rates. Ten- and 30-year Treasury yields also reflect expected inflation, future policy, debt supply, growth, and the term premium investors require for holding bonds for many years. A cut in the federal funds rate may influence these expectations, but it cannot force investors to accept a lower long-term return if they remain concerned about inflation or debt. This distinction helps explain why long yields can rise even when investors expect easier short-term policy.</p><p><strong>What does this mean for stocks, mortgages, and investment decisions?</strong></p><p>Higher Treasury yields raise the benchmark cost of capital across the economy. Mortgage rates tend to follow longer-term Treasury yields, and more expensive borrowing can pressure company profits and stock valuations. Higher yields can also make government bonds comparatively more appealing versus riskier assets. For investors and traders, the practical response is not to react to every yield move. Match bond duration to your time horizon, keep adequate liquidity for near-term needs, diversify concentrated equity exposure, and define position size and exit rules before volatility tests your judgment.</p><p><strong>What is the disciplined takeaway from this bond-market episode?</strong></p><p>Treat a Treasury buyback as one input into market liquidity, not as a complete solution to inflation or fiscal risk. Watch the mechanism: rising yields can tighten financial conditions, while falling yields can briefly relieve pressure on borrowers and risk assets. A resilient plan separates a short-term market reaction from a durable change in fundamentals, so decisions remain anchored to objectives, diversification, and risk capacity rather than to a single headline.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-rising-treasury-yields-can-pressure-stocks-borrowing-and-investor-confidence",
     "title": "Why Rising Treasury Yields Can Pressure Stocks, Borrowing, and Investor Confidence",
     "category": "Article",
