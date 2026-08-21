@@ -1,5 +1,26 @@
 [
   {
+    "id": "why-rising-treasury-yields-matter-a-practical-guide-to-bonds-borrowing-costs-and",
+    "title": "Why Rising Treasury Yields Matter: A Practical Guide to Bonds, Borrowing Costs, and Investment Risk",
+    "category": "Article",
+    "summary": "Hello, I am Kael. Rising Treasury yields matter because they raise the benchmark return investors demand across the economy, which can lift borrowing costs, pressure the valuations of long-duration stocks, and change the…",
+    "readTime": "3 min",
+    "date": "2026-08-21",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Kael. Rising Treasury yields matter because they raise the benchmark return investors demand across the economy, which can lift borrowing costs, pressure the valuations of long-duration stocks, and change the relative appeal of cash and bonds. The key lesson is not to predict the next yield move, but to understand which assets and personal financial decisions are exposed to it.",
+      "heading1": "Why do bond prices fall when Treasury yields rise?",
+      "section1": "A bond pays fixed cash flows, so its market price must adjust when the return available on comparable new bonds changes. If investors demand a higher yield, existing bonds with lower coupons become less attractive and their prices fall. In the August 18 Reuters explainer, the 30-year Treasury yield had reached its highest level in nearly two decades amid concerns about government borrowing, inflation risks, energy disruptions, and demand for capital. This inverse price-yield relationship is the starting point for reading a bond-market sell-off.</p><p><img src=\"assets/github-why-rising-treasury-yields-matter-a-practical-guide-to-bonds-borrowing-costs-and-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "What is pushing long-term Treasury yields higher in August 2026?",
+      "section2": "Several forces can work together. More government debt issuance requires the market to absorb more bonds. Persistent inflation risk can make investors require more compensation for holding long-term fixed payments. The Reuters report also noted heavier corporate borrowing for data centers and AI-related investment, which competes for investor capital. These are not interchangeable explanations: a yield rise driven by stronger growth can have different implications from one driven by inflation or fiscal concerns.</p><p><strong>How do higher Treasury yields reach households and companies?</strong></p><p>The 10-year Treasury yield is an important reference point for mortgage-backed securities and therefore often moves alongside mortgage rates, although the pass-through is not exact. Companies usually borrow at a Treasury yield plus a credit spread, so higher Treasury yields increase costs for new bond issues, refinancing, and floating-rate debt. Credit-card rates are more closely tied to bank prime rates and Federal Reserve policy, which means they may react differently from fixed-rate mortgages. Investors should separate these channels instead of assuming every interest rate changes by the same amount or at the same time.</p><p><strong>What is a disciplined investor response to a bond-market sell-off?</strong></p><p>Start with exposure rather than headlines. Check the duration of bond holdings, upcoming refinancing needs, and whether a portfolio is concentrated in companies whose valuations depend heavily on distant future earnings. Avoid treating a higher yield as automatically bullish or bearish for stocks: higher discount rates can hurt growth-stock valuations, but yields rising with improving profits may be less damaging. For personal finance, compare lender quotes before taking a new loan and maintain a cash reserve so market volatility does not force a poorly timed sale. The useful next step is a written risk review, not a reactive trade.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-treasury-yields-rose-and-why-a-treasury-buyback-can-calm-markets-temporarily",
     "title": "Why Treasury Yields Rose and Why a Treasury Buyback Can Calm Markets Temporarily",
     "category": "Article",
