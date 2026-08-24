@@ -1,5 +1,26 @@
 [
   {
+    "id": "why-rising-treasury-yields-matter-a-practical-guide-for-investors-and-traders",
+    "title": "Why Rising Treasury Yields Matter: A Practical Guide for Investors and Traders",
+    "category": "Article",
+    "summary": "Kael here. Rising Treasury yields matter because they raise the benchmark return investors can earn from government bonds, which can increase borrowing costs and change how stocks, mortgages, corporate debt, and…",
+    "readTime": "3 min",
+    "date": "2026-08-24",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Kael here. Rising Treasury yields matter because they raise the benchmark return investors can earn from government bonds, which can increase borrowing costs and change how stocks, mortgages, corporate debt, and currencies are priced. The key mechanism is simple: when existing bond prices fall, their yields rise; the consequences then spread through financial markets.",
+      "heading1": "Why do bond prices and Treasury yields move in opposite directions?",
+      "section1": "A bond's coupon payment is fixed, but its market price is not. If investors sell a Treasury bond, its price declines. That same fixed payment then represents a larger return relative to the lower purchase price, so the yield rises. In the August 18 Reuters explainer, the 30-year Treasury yield had reached its highest level in nearly two decades amid concerns about government borrowing, inflation risks, energy disruption, and demand for capital from AI-related investment.</p><p><img src=\"assets/github-why-rising-treasury-yields-matter-a-practical-guide-for-investors-and-traders-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "How do higher Treasury yields reach households and companies?",
+      "section2": "Treasuries are a base reference for many other rates. The 10-year Treasury yield generally moves alongside mortgage-backed securities, so sustained increases can reduce the mortgage amount a buyer can afford for a given monthly payment. Companies commonly borrow at a Treasury yield plus a credit spread, meaning a higher Treasury yield can make refinancing and new projects more expensive. Credit-card rates are different: they are more closely tied to banks' prime rates and Federal Reserve policy than to long-term Treasury yields alone.</p><p><strong>What can rising yields mean for stock prices and trading decisions?</strong></p><p>Higher yields can pressure equities because future profits are discounted at a higher rate, especially for companies whose expected cash flows are far in the future. That is why high-growth shares can be more sensitive than businesses with nearer-term earnings. But yield increases are not automatically bearish for stocks: if yields rise because growth and profits are strengthening, the effect can be less severe. Separate the cause of the move from the headline, and avoid treating every yield jump as the same signal.</p><p><strong>How should investors respond without reacting emotionally?</strong></p><p>Start with exposure, not prediction. Check whether your bond holdings have long duration, whether highly valued growth stocks dominate your portfolio, and whether any near-term borrowing or refinancing is vulnerable to higher rates. For traders, define position size and exit conditions before volatile rate news, because rapid price changes can invite impulsive averaging down or chasing rebounds. Diversification and a time horizon matched to the investment are usually more durable tools than a single macro call.</p><p><strong>The actionable takeaway</strong></p><p>Watch the direction and cause of Treasury yields, then connect them to the assets and liabilities you actually hold. Rising long-term yields can signal changing inflation, fiscal, growth, or capital-demand expectations; they do not by themselves dictate one trade. A disciplined investor uses them as a prompt to review duration, valuation sensitivity, borrowing costs, and risk limits.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-rising-treasury-yields-matter-a-practical-guide-to-bonds-borrowing-costs-and",
     "title": "Why Rising Treasury Yields Matter: A Practical Guide to Bonds, Borrowing Costs, and Investment Risk",
     "category": "Article",
