@@ -1,5 +1,26 @@
 [
   {
+    "id": "why-a-calm-s-p-500-can-hide-violent-ai-stock-swings-a-guide-to-dispersion-risk",
+    "title": "Why a Calm S&amp;P 500 Can Hide Violent AI Stock Swings: A Guide to Dispersion Risk",
+    "category": "Article",
+    "summary": "Hello, I'm Kael. A calm S&amp;P 500 does not necessarily mean a calm stock market: individual shares can move sharply in different directions while their gains and losses offset inside the index. In July 2026, an…",
+    "readTime": "3 min",
+    "date": "2026-08-28",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I'm Kael. A calm S&amp;P 500 does not necessarily mean a calm stock market: individual shares can move sharply in different directions while their gains and losses offset inside the index. In July 2026, an options-based measure of S&amp;P 500 constituent volatility rose above 50, versus a roughly 32 average over the prior decade, even as index-level volatility was far less dramatic. For investors, the practical lesson is to measure risk at the holdings level, not only by watching the headline index.",
+      "heading1": "Why can the S&amp;P 500 look stable when individual stocks are volatile?",
+      "section1": "An index is a weighted combination of many companies. When one group of AI-linked stocks falls while other large companies rise or hold steady, those moves can cancel each other out in the S&amp;P 500. This is called dispersion: returns are widely spread across individual securities even though the aggregate index has a modest move. The August 19 Axios report linked the recent pattern to the AI investment boom and to changing views about the competitive position of AI companies.</p><p><img src=\"assets/github-why-a-calm-s-p-500-can-hide-violent-ai-stock-swings-a-guide-to-dispersion-risk-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "What is a dispersion trade, and why should ordinary investors care?",
+      "section2": "A dispersion trade is an options strategy that seeks to benefit when individual stocks are more volatile than the index. Professional investors may combine exposure to index options with exposure to options on individual shares. It is complex, can be expensive, and can lose money quickly when correlations or volatility change. Ordinary investors do not need to trade it to learn from it: the strategy highlights that an index fund can be diversified across companies while a portfolio concentrated in a few AI names remains exposed to much larger company-specific swings.</p><p><strong>How does volatility change investor behavior?</strong></p><p>Sharp moves in a familiar stock can create a false sense that every price change requires action. That impulse is especially strong when a market narrative such as AI dominates news coverage. A better process is to decide position size before buying, define the reason to own the asset, and review whether new information changes the long-term thesis rather than reacting to a single volatile session. Volatility is information about uncertainty, not an instruction to chase a rebound or sell in panic.</p><p><strong>How can investors manage hidden single-stock risk?</strong></p><p>Start by checking overlap: several funds and individual holdings may all depend on the same AI spending cycle. Set a maximum weight for any one company or theme, rebalance when a winner becomes oversized, and keep cash needs separate from volatile equity investments. Investors using options should understand the maximum loss, liquidity, and time decay before placing a trade. The key takeaway is simple: a quiet index can conceal a turbulent market underneath, so risk management should focus on the businesses and exposures actually held.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-rising-treasury-yields-matter-a-practical-guide-for-investors-and-traders",
     "title": "Why Rising Treasury Yields Matter: A Practical Guide for Investors and Traders",
     "category": "Article",
