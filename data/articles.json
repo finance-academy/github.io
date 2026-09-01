@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-repo-markets-connect-the-federal-reserve-s-balance-sheet-to-short-term-inter",
+    "title": "How Repo Markets Connect the Federal Reserve's Balance Sheet to Short-Term Interest Rates",
+    "category": "Article",
+    "summary": "Repo markets are a key plumbing system for modern finance: they let dealers and other institutions borrow cash against securities, and shifts in their supply and demand can affect short-term funding conditions. A Federal…",
+    "readTime": "3 min",
+    "date": "2026-09-01",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Repo markets are a key plumbing system for modern finance: they let dealers and other institutions borrow cash against securities, and shifts in their supply and demand can affect short-term funding conditions. A Federal Reserve note published on August 26, 2026 explains that the Fed's balance sheet, Treasury issuance, money market fund assets, and dealer financing needs are linked. For investors, the practical lesson is to treat unusual repo-rate pressure as a liquidity signal, not as a stand-alone trading forecast.",
+      "heading1": "What is a repo market and why does it matter?",
+      "section1": "A repurchase agreement, or repo, is a short-term secured loan. One party receives cash and provides securities, commonly U.S. Treasuries, as collateral while agreeing to repurchase them later. Primary dealers and hedge funds use repo funding to finance Treasury holdings. When that funding becomes more expensive or scarce, it can reveal pressure in the market's ability to absorb and finance securities.</p><p><strong>How do Treasury supply and money market funds move repo rates?</p><p>The mechanism has two sides. More privately held longer-dated Treasury coupon securities can increase dealers' and hedge funds' demand to borrow in repo, putting upward pressure on repo rates. On the cash-supply side, money market funds are important lenders. When their assets under management rise, they generally have more cash available for repo lending, which can ease rates. The Fed's analysis estimated that $100 billion of net Treasury coupon issuance was associated with a 3.9-basis-point increase in repo rates, while $100 billion of bill issuance was associated with a 1.3-basis-point increase over its study period.</p><p><img src=\"assets/github-how-repo-markets-connect-the-federal-reserve-s-balance-sheet-to-short-term-inter-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "Why can the Fed's balance sheet change market liquidity?",
+      "section2": "The Fed's balance sheet affects the amount of liquidity supplied to the financial system through bank reserves and overnight reverse repo balances. In December 2025, the Federal Open Market Committee began reserve-management purchases of Treasury bills to maintain ample reserves. The Fed said that, through mid-April 2026, these purchases totaled about $120 billion. Buying bills adds reserves but also reduces the bill supply available to money market funds, which can encourage them to redirect cash toward repo lending and help lower repo rates.</p><p><strong>Does a higher policy rate always tighten repo conditions?</strong></p><p>Not necessarily. Higher policy rates can make money market fund yields more attractive than bank-deposit rates, encouraging money to move into money market funds. That can increase the cash those funds can lend in repo. At the same time, Treasury issuance, dealer balance-sheet capacity, regulation, and expectations for future rates can pull in the opposite direction. This is why a single rate decision does not mechanically determine every short-term market rate.</p><p><strong>How should investors use repo-market information?</strong></p><p>Use it as context for liquidity and transmission risk. Investors in bonds can watch whether funding stress is broadening into Treasury-market volatility; equity investors can remember that tighter financing conditions may affect leveraged participants and risk appetite. Avoid reacting to one daily rate move. A more disciplined approach is to compare repo developments with Treasury issuance, policy decisions, money market fund flows, credit spreads, and the investor's own time horizon and risk limits.</p><p><strong>The actionable takeaway</strong></p><p>Repo markets show that financial conditions are shaped by more than a headline policy rate. The most useful habit is to separate the policy signal from the market-plumbing signal: ask who needs cash, who can lend it, what collateral is being financed, and whether the pressure is temporary or persistent. That framework helps investors interpret liquidity news without mistaking it for a guaranteed buy or sell signal.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "why-rising-treasury-yields-matter-the-bond-market-chain-from-prices-to-mortgages",
     "title": "Why Rising Treasury Yields Matter: The Bond-Market Chain From Prices to Mortgages and Stocks",
     "category": "Article",
