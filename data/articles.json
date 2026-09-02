@@ -1,5 +1,26 @@
 [
   {
+    "id": "how-federal-reserve-communication-moves-stocks-bonds-and-your-trading-decisions",
+    "title": "How Federal Reserve Communication Moves Stocks, Bonds, and Your Trading Decisions",
+    "category": "Article",
+    "summary": "Hello, I am Kael. The core lesson from the latest Federal Reserve debate is simple: markets do not react only to an interest-rate decision; they react to the gap between what investors expected and what the Fed…",
+    "readTime": "3 min",
+    "date": "2026-09-02",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Hello, I am Kael. The core lesson from the latest Federal Reserve debate is simple: markets do not react only to an interest-rate decision; they react to the gap between what investors expected and what the Fed communicates about inflation, growth, and future policy. When guidance is unclear while inflation and long-term yields are elevated, bond prices, stock valuations, and trader confidence can all move quickly even before the next policy meeting.",
+      "heading1": "Why does Federal Reserve communication move markets before a rate decision?",
+      "section1": "The Federal Reserve sets a short-term policy rate, but investors price assets using expectations about many future rates, inflation, and economic growth. On August 27, 2026, Axios reported that Federal Reserve Chair Kevin Warsh faced pressure to clarify his approach before the Jackson Hole symposium as markets weighed persistent inflation, possible future rate increases, and recent Treasury actions. A clearer signal can change expected future cash flows and discount rates immediately; a vague signal can leave investors assigning a wider range of possible outcomes.</p><p><img src=\"assets/github-how-federal-reserve-communication-moves-stocks-bonds-and-your-trading-decisions-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "What is the link between higher Treasury yields and stock prices?",
+      "section2": "A Treasury yield is the return investors demand for lending to the US government. Higher yields raise the benchmark return available on relatively low-credit-risk bonds and usually increase borrowing costs for households and companies. They can also reduce the present value investors place on distant corporate earnings, which is especially important for growth stocks. This does not mean stocks must fall whenever yields rise, but it explains why a sudden repricing in the bond market can pressure equity valuations and increase volatility.</p><p><strong>How should a trader separate a policy signal from market noise?</strong></p><p>Start with the mechanism, not the headline. Ask whether new information changes the expected policy path, the inflation outlook, or the risk premium investors demand to hold long-dated bonds. Then watch confirmation across related markets: Treasury yields, the US dollar, equity indexes, and sector leadership. A single sharp price move may be positioning or thin liquidity; a move confirmed across several markets is more likely to reflect a broader change in expectations.</p><p><strong>What does the August 2026 case study show about expectations?</strong></p><p>The case illustrates how several forces can interact. Axios described investors seeking more clarity on whether the Fed would raise rates if core PCE inflation did not decline steadily, while the Treasury had taken actions affecting bond and currency markets. Long-term yields had already become a focal point. The practical insight is that policy credibility, inflation data, Treasury supply and liquidity conditions can influence the same asset at once. Treating every move as a pure Fed trade can produce an incomplete analysis.</p><p><strong>What risk-management steps are useful during policy uncertainty?</strong></p><p>Define risk before the event: decide the maximum loss, position size, and invalidation point before entering a trade. Avoid increasing leverage merely because a policy headline feels urgent. Investors with diversified, long-term plans can review whether their bond duration, equity concentration, and cash needs still match their time horizon. Short-term traders can reduce size when volatility rises and wait for confirmation rather than trying to predict every sentence from a central banker.</p><p>The actionable takeaway is to follow the chain from Federal Reserve communication to rate expectations, Treasury yields, financing conditions, and asset prices. Focus on what has changed in that chain, document the reason for each trade, and distinguish a durable shift in expectations from an emotional reaction to uncertainty. That discipline is more repeatable than chasing the first market move after a policy headline.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-repo-markets-connect-the-federal-reserve-s-balance-sheet-to-short-term-inter",
     "title": "How Repo Markets Connect the Federal Reserve's Balance Sheet to Short-Term Interest Rates",
     "category": "Article",
