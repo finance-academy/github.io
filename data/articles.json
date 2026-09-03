@@ -1,5 +1,26 @@
 [
   {
+    "id": "what-rising-treasury-yields-mean-a-practical-guide-to-bond-prices-borrowing-cost",
+    "title": "What Rising Treasury Yields Mean: A Practical Guide to Bond Prices, Borrowing Costs, and Portfolio Risk",
+    "category": "Article",
+    "summary": "Rising Treasury yields matter because they raise the return investors demand for lending money and can lift borrowing costs across the economy. The key mechanism is simple: when existing bond prices fall, their yields…",
+    "readTime": "3 min",
+    "date": "2026-09-03",
+    "tags": [
+      "Article"
+    ],
+    "body": {
+      "intro": "Rising Treasury yields matter because they raise the return investors demand for lending money and can lift borrowing costs across the economy. The key mechanism is simple: when existing bond prices fall, their yields rise. For investors, the useful response is not to predict every yield move, but to understand which holdings are sensitive to rates, how long they can hold them, and whether their portfolio depends too heavily on the old assumption that Treasurys and stocks will always offset one another.</p><p><strong>Why do bond prices fall when yields rise?</p><p>A bond's coupon payment is generally fixed when the bond is issued. If new bonds offer higher interest rates, an older bond with a lower coupon becomes less attractive and must trade at a lower price to give its buyer a competitive return. That is why bond prices and yields move in opposite directions. The longer a bond has until maturity, the more exposed its price is usually to changes in interest rates, because more future payments are being discounted at the new, higher rate.",
+      "heading1": "What is driving the current pressure on longer-term Treasurys?",
+      "section1": "Axios reported on August 25, 2026 that higher long-term Treasury yields were occurring alongside questions about fiscal borrowing, investor demand, and the traditional role of Treasurys as a safe haven. The article noted that more financing of the United States' roughly $2 trillion annual deficits must be absorbed by investors evaluating the yield they require. It also described foreign diversification away from dollar assets, banks' reduced market role, and the Federal Reserve's effort to hold fewer Treasurys as forces that can change demand and market liquidity.</p><p><img src=\"assets/github-what-rising-treasury-yields-mean-a-practical-guide-to-bond-prices-borrowing-cost-1.png\" alt=\"\" loading=\"lazy\">",
+      "quote": "",
+      "heading2": "Do higher Treasury yields automatically make Treasurys unsafe?",
+      "section2": "No. A higher yield is not the same as an immediate default signal. It can reflect inflation expectations, expected Federal Reserve policy, the supply of new government debt, global alternatives, or a larger term premium: the extra return investors demand for holding longer maturities. But a Treasury fund can still lose value when yields rise, even though the underlying securities continue to pay as promised. Separate credit risk from price risk before treating any bond allocation as cash-like.</p><p><strong>How can rising yields affect stocks, loans, and investor behavior?</strong></p><p>Higher Treasury yields can increase mortgage, auto-loan, and business-financing costs because many private borrowing rates are priced relative to government benchmarks. They can also pressure shares with valuations that rely heavily on profits expected far in the future, since a higher discount rate reduces the present value of those projected cash flows. Axios noted that the familiar risk-on/risk-off pattern, in which bonds rise when stocks fall, has at times weakened. That makes diversification more important than relying on a single historical correlation.</p><p><strong>What should an investor do when yields are volatile?</strong></p><p>Start with time horizon and liquidity needs. Match near-term spending needs with cash or short-duration instruments rather than assets that could need to be sold after a rate-driven decline. Review bond duration, credit quality, fund expenses, and concentration across stocks and bonds. Avoid chasing a yield after a sharp move or selling solely because prices have fallen; instead, rebalance against a written allocation and consider whether the higher yield now better compensates you for the risk. For traders, define the event risk, position size, and exit level before reacting to a headline about rates.</p><p>The durable lesson is that Treasury yields are prices set by a large market, not a single policy switch. Follow the connection from inflation and government borrowing to bond demand, yields, financing costs, and asset valuations. That chain helps investors make calmer decisions when a move in the bond market appears to spill into every other market.",
+      "close": ""
+    },
+    "status": "published"
+  },
+  {
     "id": "how-federal-reserve-communication-moves-stocks-bonds-and-your-trading-decisions",
     "title": "How Federal Reserve Communication Moves Stocks, Bonds, and Your Trading Decisions",
     "category": "Article",
